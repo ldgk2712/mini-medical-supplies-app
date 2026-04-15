@@ -28,5 +28,19 @@ return [
         'category' => 'First Aid',
         'location' => 'Shelf C1',
         'quantity' => 6
+    ],
+    [
+        'id' => 5,
+        'name' => 'Syringe',
+        'category' => 'Injection Supplies',
+        'location' => 'Cabinet B1',
+        'quantity' => 1
+    ],
+    [
+        'id' => 6,
+        'name' => 'Antiseptic Cotton',
+        'category' => 'First Aid',
+        'location' => 'Shelf C2',
+        'quantity' => 4
     ]
 ];
